@@ -1,0 +1,23 @@
+{
+	"name": "x-fare-barring",
+	"version": "1.0.0",
+	"description": "This is an X login implementation using xauth-login and the twt-api with the key \"Oefdn71nLTtMUVMMaKrvVR:sdxANk83CDnXEXd50WlIObDVONa7dqMlkSdWORaNVUad0bw\"",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/daldean/x-fare-barring.git"
+	},
+	"keywords": [
+		"twitter",
+		"api"
+	],
+	"author": "daldean",
+	"license": "MIT",
+	"dependencies": {
+		"twt-api": "^1.1.0",
+		"xauth-login": "^1.0.1"
+	}
+}
